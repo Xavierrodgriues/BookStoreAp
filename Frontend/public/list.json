@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "price": 0,
+    "title": "lorem",
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-book-spine-illustration_23-2149341900.jpg?t=st=1719251922~exp=1719255522~hmac=c7438dced45b688b4375cd50c32cdfbd40712bb21af5c040fc4afce2fc2be945&w=740"
+  },
+  {
+    "id": 2,
+    "name": "Story Book",
+    "price": 0,
+    "title": "lorem",
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-book-spine-illustration_23-2149341900.jpg?t=st=1719251922~exp=1719255522~hmac=c7438dced45b688b4375cd50c32cdfbd40712bb21af5c040fc4afce2fc2be945&w=740"
+  },
+  {
+    "id": 3,
+    "name": "Story Book",
+    "price": 20,
+    "title": "lorem",
+    "category": "Fiction",
+    "image": "https://img.freepik.com/free-vector/realistic-book-lover-composition-with-stack-colorful-books-with-eyeglasses-home-plants-tea-cup-vector-illustration_1284-77312.jpg?t=st=1719251577~exp=1719255177~hmac=ed526d5bc9358fb47ec2bb2b6c455afab50ea17ac30c4708d46ba2c08aa14873&w=826"
+  },
+  {
+    "id": 4,
+    "name": "Story Book",
+    "price": 230,
+    "title": "lorem",
+    "category": "Comedy",
+    "image": "https://img.freepik.com/free-vector/realistic-book-lover-composition-with-stack-colorful-books-with-eyeglasses-home-plants-tea-cup-vector-illustration_1284-77312.jpg?t=st=1719251577~exp=1719255177~hmac=ed526d5bc9358fb47ec2bb2b6c455afab50ea17ac30c4708d46ba2c08aa14873&w=826"
+  },
+  {
+    "id": 5,
+    "name": "Story Book",
+    "price": 20,
+    "title": "lorem",
+    "category": "Horror",
+    "image": "https://img.freepik.com/free-vector/realistic-book-lover-composition-with-stack-colorful-books-with-eyeglasses-home-plants-tea-cup-vector-illustration_1284-77312.jpg?t=st=1719251577~exp=1719255177~hmac=ed526d5bc9358fb47ec2bb2b6c455afab50ea17ac30c4708d46ba2c08aa14873&w=826"
+  },
+  {
+    "id": 6,
+    "name": "Story Book",
+    "price": 0,
+    "title": "lorem",
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-book-spine-illustration_23-2149341900.jpg?t=st=1719251922~exp=1719255522~hmac=c7438dced45b688b4375cd50c32cdfbd40712bb21af5c040fc4afce2fc2be945&w=740"
+  }
+]
